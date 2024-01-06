@@ -30,9 +30,25 @@ layout: base
     {{ content }}
   </div>
 
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
-
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-</article>
+  <div class-"col-lg-9 col-md-10 mx-auto">
+    <hr/>
+    <br/>
+    <script src="https://giscus.app/client.js"
+        data-repo="ziw8/ziw8.github.io"
+        data-repo-id="R_kgDOLBYPcw"
+        data-category="General"
+        data-category-id="DIC_kwDOLBYPc84CcOsx"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="ko"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+    </script>
+  </div>
+    <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  </article>
