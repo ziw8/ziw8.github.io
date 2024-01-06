@@ -10,6 +10,13 @@ description: >
 
 # Build settings
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-DVSZZ4C0MR"
+    anonymize_ip: false
+
+
 # If you clone the Minima repo and build locally, use this setting.
 theme: minima
 
