@@ -2,9 +2,7 @@ title: Ditto
 author:
   name: ziw8
   email: ziw8lee@gmail.com
-
-github_username: ziw8
-
+  
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
