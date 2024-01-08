@@ -3,19 +3,14 @@ author:
   name: ziw8
   email: ziw8lee@gmail.com
 
+github_username: ziw8
+
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
   developer, ditto
 
 # Build settings
-
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-DVSZZ4C0MR"
-    anonymize_ip: false
-
 
 # If you clone the Minima repo and build locally, use this setting.
 theme: minima
