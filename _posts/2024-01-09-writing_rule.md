@@ -2,6 +2,7 @@
 layout: post
 title: "글은 내 맘대로 쓸거야
 ---
+
 [토스의 UX 라이팅 원칙](https://toss.tech/article/8-writing-principles-of-toss)을 읽어보면서, 이 원칙을 꼭 UX 라이팅에 가둘 필요는 없겠다고 생각했습니다.  
 거의 모든 글쓰기에 통용될만한 원칙이 아닌가 싶었습니다.
 
