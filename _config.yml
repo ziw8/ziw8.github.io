@@ -1,13 +1,13 @@
-title: 개발(희망)자
+title: AsIam
 author:
-  name: 지우
+  name: ziwoo
   email: ziw8lee@gmail.com
   github_username: ziw8
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  대학생의 에세이
+  나도 프로그래머 할래
 
 # Build settings
 
