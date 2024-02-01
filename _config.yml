@@ -1,4 +1,4 @@
-title: I am As I am
+title: 내맴이지
 author:
   name: ziwoo
   email: ziw8lee@gmail.com
@@ -7,7 +7,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  나도 프로그래머 할래
+  ziwoo log
 
 # Build settings
 
