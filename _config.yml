@@ -1,4 +1,4 @@
-title: 현실 컴파일러
+title: 라이프 컴파일
 author:
   name: ziwoo
   email: ziw8lee@gmail.com
@@ -7,7 +7,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  ziwoo's life compile
+  life compile
 
 # Build settings
 
