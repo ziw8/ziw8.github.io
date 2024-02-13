@@ -3,7 +3,7 @@ layout: post
 title: 원칙이 필요해
 ---
 
-[토스의 UX 라이팅 원칙](https://toss.tech/article/8-writing-principles-of-toss)을 읽었습니다.  
+[토스의 UX 라이팅 원칙][toss-w]을 읽었습니다.  
 읽다보니 점점 드는 생각.  
 이건 (거의) 모든 글쓰기에 적용해도 될 것들 같은데?
 
@@ -34,3 +34,6 @@ brief but comprehensive.
 5가지의 글쓰기 원칙을 정했습니다.  
 사실 무엇보다 제 편의를 위해서입니다. 하하  
 이에 벗어나는 듯하다면 언제든지 피드백 주시길!
+
+[toss-w]: https://toss.tech/article/8-writing-principles-of-toss "토스의 8가지 원칙들"
+
