@@ -37,7 +37,7 @@ title: 탁구를 치다가 느꼈어
 남은 세 판을 모두 이겨 4강에 진출했습니다.  
 그렇게 최종순위 3위로 대회를 마무리했습니다.  
 
-![토너먼트결과](/assets/img/table_tennis_result.png){: width="300px" height="300px"}
+![토너먼트결과](/assets/img/table_tennis_result.png){: width="500px" height="500px"}  
 *아주 즐거웠습니다.*
 
 집으로 돌아와서 '리시브 하는법'부터 시작해서 '회전서비스 넣는법', '커트하는 법'..등등을 검색해봤습니다.  
