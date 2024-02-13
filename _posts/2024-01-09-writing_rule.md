@@ -35,5 +35,5 @@ brief but comprehensive.
 사실 무엇보다 제 편의를 위해서입니다. 하하  
 이에 벗어나는 듯하다면 언제든지 피드백 주시길!
 
-[toss-w]: https://toss.tech/article/8-writing-principles-of-toss "토스의 8가지 원칙들"
+[toss-w]: https://toss.tech/article/8-writing-principles-of-toss "토스의 8가지 라이팅 원칙들"
 
