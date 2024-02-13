@@ -22,4 +22,6 @@ title: "'덜 아프게' 보다는 '안 아프게'"
 집으로 천천히 걸어가는데 치과의사 쌤의 말씀이 맴돌았습니다.  
 ***덜 아프게 하는게 아니라 없애버리는 겁니다.***  
 아. 문제를 해결하는 최고의 방법은 개선하는 게 아니라 문제를 없애 버리는 거구나.  
-문득 [토스가 송금서비스의 문제를 해결한 이야기](https://toss.tech/article/toss-money-transfer-bank-recommendation)가 떠올랐습니다.  
+문득 [토스가 송금서비스의 문제를 해결한 이야기][toss-s]가 떠올랐습니다.  
+
+[toss-s]: https://toss.tech/article/toss-money-transfer-bank-recommendation "송금할 때 은행 이름을 꼭 입력해야 할까요?"
