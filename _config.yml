@@ -1,4 +1,4 @@
-title: compile-ing
+title: 가만이써보자
 author:
   name: 이지우
   email: ziw8lee@gmail.com
@@ -7,7 +7,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  쪼그만 이야기
+  가만있어봐
 
 # Build settings
 
