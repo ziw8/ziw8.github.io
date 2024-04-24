@@ -43,4 +43,5 @@ title: 침묵을 나눌 수 있는 사이
 
 친구가 많지는 않지만,  
 충분한 것 같아 참 다행입니다.  
+
 [bhsan]: https://ziw8.github.io/2024/03/10/bhsan_top.html "북한산 정상까지 가본 사람"
