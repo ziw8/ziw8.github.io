@@ -32,7 +32,7 @@ brief but comprehensive.
 공감되지 않을 정도로 지나치게 사소한 이야기는 하지 않습니다.  
 
 5가지의 글쓰기 원칙을 정했습니다.  
-사실 무엇보다 제 편의를 위해서입니다. 하하  
+사실 무엇보다 제 편의를 위해서입니다.(웃음)  
 이에 벗어나는 듯하다면 언제든지 피드백 주시길!
 
 [toss-w]: https://toss.tech/article/8-writing-principles-of-toss "토스의 8가지 라이팅 원칙들"
